@@ -1,4 +1,37 @@
-# Getting Started with Create React App
+**AI-Powered Customer Query Assistant Chatbot**
+
+Welcome to the AI-Powered Customer Query Assistant, a smart chatbot built to enhance the shopping experience on e-commerce platforms. This chatbot helps users get real-time product details, check order statuses, understand store policies, and more—instantly and conversationally.
+
+---
+
+ ** Features**
+
+-  Conversational AI for natural interactions
+-  Live product recommendations from Shopify
+-  Real-time order status updates
+-  Instant access to return/refund policies
+-  Category filtering (e.g., Electronics, Clothing, Accessories)
+-  Full-stack implementation (React + Node.js + Express + MongoDB)
+-  OpenRouter API for intelligent responses
+
+---
+
+### Technologies Used
+
+##  AI & NLP
+- OpenRouter API — Handles conversational understanding and response generation.
+
+##  E-commerce Integration
+- Shopify Storefront API — Provides real-time product data and updates from a connected Shopify store.
+
+##  Frontend
+- React.js — Interactive UI for seamless user experiences.
+- Tailwind CSS — Clean and responsive design.
+
+##  Backend
+- Node.js & Express.js — API handling and routing.
+
+ Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +101,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+ 
+
